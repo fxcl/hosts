@@ -3,12 +3,13 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/fxcl/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/fxcl/hosts/main/hosts
 # DNS Servers: Shenzhen Sunrise Technology Co. Ltd
-# Update at: 2025-08-20 08:48:34
+# Update at: 2025-08-20 14:15:54
 # GitHub Hosts Start
                 github.io
                 github.com
                 github.blog
                 github.community
+                api.github.com
                 api.githubcopilot.com
                 gist.github.com
                 codeload.github.com
@@ -66,5 +67,6 @@
                 opensubtitles.org
                 www.opensubtitles.org
                 api.opensubtitles.org
+                assets.fanart.tv
 # TMM Hosts End
 # ING Hosts End
