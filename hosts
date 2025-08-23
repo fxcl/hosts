@@ -3,7 +3,7 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/fxcl/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/fxcl/hosts/main/hosts
 # DNS Servers: Shenzhen Sunrise Technology Co. Ltd
-# Update at: 2025-08-23 02:13:53
+# Update at: 2025-08-23 08:46:31
 # GitHub Hosts Start
                 github.io
                 github.com
@@ -38,6 +38,7 @@
                 pipelines.actions.githubusercontent.com
                 pipelinesghubeus7.actions.githubusercontent.com
                 githubstatus.com
+                collector.githubapp.com
                 github.githubassets.com
                 analytics.githubassets.com
                 github.map.fastly.net
