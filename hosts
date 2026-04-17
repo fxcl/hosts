@@ -3,70 +3,70 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/fxcl/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/fxcl/hosts/main/hosts
 # DNS Servers: Shenzhen Sunrise Technology Co. Ltd
-# Update at: 2026-04-17 20:53:20
+# Update at: 2026-04-18 02:41:23
 # GitHub Hosts Start
-140.82.121.6    api.github.com
+140.82.112.6    api.github.com
 140.82.112.21   api.githubcopilot.com
-140.82.121.3    gist.github.com
-140.82.121.9    codeload.github.com
-140.82.114.21   central.github.com
+140.82.112.3    gist.github.com
+140.82.112.9    codeload.github.com
+140.82.112.21   central.github.com
 140.82.112.21   collector.github.com
-185.199.108.133 raw.github.com
-185.199.111.154 docs.github.com
+185.199.109.133 raw.github.com
+185.199.110.154 docs.github.com
 185.199.109.133 raw.githubusercontent.com
 185.199.110.133 camo.githubusercontent.com
-185.199.111.133 cloud.githubusercontent.com
-185.199.109.133 media.githubusercontent.com
-185.199.108.133 desktop.githubusercontent.com
-185.199.111.133 objects.githubusercontent.com
+185.199.109.133 cloud.githubusercontent.com
+185.199.110.133 media.githubusercontent.com
+185.199.110.133 desktop.githubusercontent.com
+185.199.109.133 objects.githubusercontent.com
 185.199.111.133 favicons.githubusercontent.com
 185.199.111.133 avatars5.githubusercontent.com
-185.199.108.133 avatars4.githubusercontent.com
-185.199.108.133 avatars3.githubusercontent.com
-185.199.108.133 avatars2.githubusercontent.com
-185.199.110.133 avatars1.githubusercontent.com
+185.199.110.133 avatars4.githubusercontent.com
+185.199.110.133 avatars3.githubusercontent.com
+185.199.110.133 avatars2.githubusercontent.com
+185.199.108.133 avatars1.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
-185.199.109.133 avatars.githubusercontent.com
-185.199.109.133 user-images.githubusercontent.com
+185.199.108.133 avatars.githubusercontent.com
+185.199.108.133 user-images.githubusercontent.com
 52.175.140.176  copilot-proxy.githubusercontent.com
-185.199.109.154 github-releases.githubusercontent.com
+185.199.108.154 github-releases.githubusercontent.com
 13.107.42.16    pipelines.actions.githubusercontent.com
 20.246.184.240  pipelinesghubeus7.actions.githubusercontent.com
-185.199.109.153 githubstatus.com
-140.82.112.22   collector.githubapp.com
-185.199.108.215 github.githubassets.com
-185.199.108.153 analytics.githubassets.com
-185.199.111.133 github.map.fastly.net
+185.199.110.153 githubstatus.com
+140.82.114.21   collector.githubapp.com
+185.199.110.215 github.githubassets.com
+185.199.111.153 analytics.githubassets.com
+185.199.108.133 github.map.fastly.net
 146.75.49.194   github.global.ssl.fastly.net
-52.216.214.105  github-cloud.s3.amazonaws.com
-16.15.223.19    github-com.s3.amazonaws.com
-52.217.113.169  github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.41.161   github-production-user-asset-6210df.s3.amazonaws.com
-52.217.203.225  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.131.129  github-cloud.s3.amazonaws.com
+52.217.230.57   github-com.s3.amazonaws.com
+16.15.252.22    github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.212.89   github-production-user-asset-6210df.s3.amazonaws.com
+3.5.25.214      github-production-repository-file-5c1aeb.s3.amazonaws.com
 # GitHub Hosts End
 # Docker Hosts Start
-54.210.213.255  registry.hub.docker.com
-104.18.43.187   hub.docker.com
+3.233.14.244    registry.hub.docker.com
+172.64.144.69   hub.docker.com
 20.200.245.241  ghcr.io
-142.251.8.82    gcr.io
-74.125.203.82   k8s.gcr.io
-100.49.86.61    quay.io
+142.250.157.82  gcr.io
+142.250.157.82  k8s.gcr.io
+98.87.75.83     quay.io
 # Docker Hosts End
 # TMM Hosts Start
-13.225.117.77   themoviedb.org
+13.225.117.96   themoviedb.org
 13.225.117.78   www.themoviedb.org
-18.244.214.44   api.themoviedb.org
-18.64.8.90      tmdb.org
-18.238.192.100  api.tmdb.org
+18.244.214.89   api.themoviedb.org
+18.64.8.97      tmdb.org
+3.167.192.35    api.tmdb.org
 109.61.83.243   image.tmdb.org
-172.67.74.14    opensubtitles.org
-104.26.6.244    www.opensubtitles.org
+104.26.6.244    opensubtitles.org
+172.67.74.14    www.opensubtitles.org
 104.26.6.244    api.opensubtitles.org
-158.69.210.98   assets.fanart.tv
+158.69.209.125  assets.fanart.tv
 # TMM Hosts End
-185.199.109.153 github.io # 重试添加
-140.82.121.3    github.com # 重试添加
+185.199.110.153 github.io # 重试添加
+140.82.121.4    github.com # 重试添加
 192.0.66.2      github.blog # 重试添加
-140.82.114.17   github.community # 重试添加
+140.82.114.18   github.community # 重试添加
 # ING Hosts End
 # Total: 54 success, 0 failed
